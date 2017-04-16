@@ -1,5 +1,5 @@
-# CR
-Characters Recognition
+# CR Characters Recognition
+
 關於NIST Special Database 19數據集by_class.zip
 1、資料描述
 (1)png, 3channel，128*128，計張MB
