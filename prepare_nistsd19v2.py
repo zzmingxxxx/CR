@@ -112,6 +112,7 @@ def prepareData(dataPath,rows, cols):
 train_img, train_lbl, val_img, val_lbl = prepareData(dataPath, rows, cols) 
    
 tEnd = time.time()#計時結束
+
 m, s = divmod((tEnd - tStart), 60)  
 h, m = divmod(m, 60) 
 print('')
